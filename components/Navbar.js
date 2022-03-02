@@ -38,6 +38,11 @@ const Navbar = () => {
                 <a className="nav-link">Post</a>
               </Link>
             </li>
+            <li className="nav-item">
+              <Link href="/shop">
+                <a className="nav-link">Shop</a>
+              </Link>
+            </li>
           </ul>
           <form className="d-flex">
             <input
